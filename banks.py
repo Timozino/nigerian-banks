@@ -1,19 +1,4 @@
-"""Nigerian banks list in Python.
 
-   @author
-     Victor I. Afolabi
-     Artificial Intelligence & Software Engineer.
-     Email: javafolabi@gmail.com
-     GitHub: https://github.com/victor-iyiola
-
-   @project
-     File: banks.py
-     Created on 24 September, 2018 @ 01:12 AM.
-
-   @license
-     MIT License
-     Copyright (c) 2018. Victor I. Afolabi. All rights reserved.
-"""
 import json
 
 try:
